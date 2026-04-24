@@ -1,0 +1,17 @@
+path: /path/to/road_signs_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 43
+names: ['Speed limit 20', 'Speed limit 30', 'Speed limit 50', 'Speed limit 60', 
+        'Speed limit 70', 'Speed limit 80', 'Speed limit 100', 'Speed limit 120',
+        'No passing', 'No passing trucks', 'Right of way', 'Priority road',
+        'Yield', 'Stop', 'No entry', 'No vehicles',
+        'No horns', 'No parking', 'No stopping', 'Pedestrian crossing',
+        'Children crossing', 'Bicycle crossing', 'Slippery road', 'Road work',
+        'Traffic signals', 'Bumpy road', 'Uneven road', 'Road narrows',
+        'Falling rocks', 'Animal crossing', 'End of speed limit',
+        'Turn left', 'Turn right', 'Keep left', 'Keep right',
+        'Roundabout', 'End no passing', 'End speed 80', 'End all restrictions',
+        'Mandatory direction', 'One way', 'Pedestrian zone', 'Bicycle lane']
